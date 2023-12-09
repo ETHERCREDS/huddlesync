@@ -1,1 +1,1 @@
-# huddlesync
+This is a simple web application that demonstrates the usage of the Huddle01 Create Room API to create and join meeting rooms. Users can enter a title and a host wallet address to create a meeting room. The application also allows users to join a meeting by entering the Room ID.
